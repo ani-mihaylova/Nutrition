@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarOfNutrition.Models", "CalendarOFNutrition.Models\CalendarOfNutrition.Models.csproj", "{DDFAAF0D-9151-45C4-AA42-388638B65435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarOfNutrition.Data", "CalendarOfNutrition.Data\CalendarOfNutrition.Data.csproj", "{1EC8DCE8-FC05-4CCC-82BC-4A22D0EB0F1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{4CE6F03B-262F-485B-A2CC-6B25E56812A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{1444B113-20E0-4E37-8DEB-181DFE58D7C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarOfNutrition.Web.Infrastracture", "CalendarOfNutrition.Web.Infrastracture\CalendarOfNutrition.Web.Infrastracture.csproj", "{B14A2B6D-FEEC-4155-B735-B546DBD8DE86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarOfNutrition.Web", "CalendarOfNutrition.Web\CalendarOfNutrition.Web.csproj", "{CFB6CB77-C631-4110-B976-D99ABAA99F7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDFAAF0D-9151-45C4-AA42-388638B65435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFAAF0D-9151-45C4-AA42-388638B65435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFAAF0D-9151-45C4-AA42-388638B65435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFAAF0D-9151-45C4-AA42-388638B65435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EC8DCE8-FC05-4CCC-82BC-4A22D0EB0F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC8DCE8-FC05-4CCC-82BC-4A22D0EB0F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC8DCE8-FC05-4CCC-82BC-4A22D0EB0F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC8DCE8-FC05-4CCC-82BC-4A22D0EB0F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14A2B6D-FEEC-4155-B735-B546DBD8DE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14A2B6D-FEEC-4155-B735-B546DBD8DE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14A2B6D-FEEC-4155-B735-B546DBD8DE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14A2B6D-FEEC-4155-B735-B546DBD8DE86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB6CB77-C631-4110-B976-D99ABAA99F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB6CB77-C631-4110-B976-D99ABAA99F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB6CB77-C631-4110-B976-D99ABAA99F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB6CB77-C631-4110-B976-D99ABAA99F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DDFAAF0D-9151-45C4-AA42-388638B65435} = {1444B113-20E0-4E37-8DEB-181DFE58D7C1}
+		{1EC8DCE8-FC05-4CCC-82BC-4A22D0EB0F1A} = {1444B113-20E0-4E37-8DEB-181DFE58D7C1}
+		{B14A2B6D-FEEC-4155-B735-B546DBD8DE86} = {4CE6F03B-262F-485B-A2CC-6B25E56812A8}
+		{CFB6CB77-C631-4110-B976-D99ABAA99F7D} = {4CE6F03B-262F-485B-A2CC-6B25E56812A8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Web.Infrastracture\bin\Debug\AutoMapper.Net4.dll
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Web.Infrastracture\bin\Debug\CalendarOfNutrition.Web.Infrastracture.dll
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Web.Infrastracture\bin\Debug\CalendarOfNutrition.Web.Infrastracture.pdb
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Web.Infrastracture\bin\Debug\AutoMapper.dll
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Web.Infrastracture\bin\Debug\AutoMapper.pdb
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Web.Infrastracture\bin\Debug\AutoMapper.xml
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Web.Infrastracture\bin\Debug\AutoMapper.Net4.pdb
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Web.Infrastracture\obj\Debug\CalendarOfNutrition.Web.Infrastracture.dll
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Web.Infrastracture\obj\Debug\CalendarOfNutrition.Web.Infrastracture.pdb
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Web.Infrastracture\obj\Debug\CalendarOfNutrition.Web.Infrastracture.csprojResolveAssemblyReference.cache

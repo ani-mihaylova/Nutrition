@@ -1,0 +1,16 @@
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Data\bin\Debug\CalendarOfNutrition.Data.dll.config
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Data\bin\Debug\CalendarOfNutrition.Data.dll
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Data\bin\Debug\CalendarOfNutrition.Data.pdb
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Data\bin\Debug\CalendarOFNutritions.Models.dll
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Data\bin\Debug\EntityFramework.dll
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Data\bin\Debug\CalendarOFNutritions.Models.pdb
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Data\bin\Debug\EntityFramework.xml
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Data\obj\Debug\CalendarOfNutrition.Data.csprojResolveAssemblyReference.cache
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Data\obj\Debug\CalendarOfNutrition.Data.dll
+D:\TelerikAcademy\Meals\CalendarOfNutrition\CalendarOfNutrition.Data\obj\Debug\CalendarOfNutrition.Data.pdb
